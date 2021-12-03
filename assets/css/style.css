@@ -1,0 +1,25 @@
+body {
+    background: linear-gradient(to right, #b7b7b2 , #007AC1);
+}
+
+ion-icon {
+    color:whitesmoke;
+    --ionicon-stroke-width: 80px;
+  }
+
+.green{
+  background-color: green;
+}
+.yellow{
+  background-color: yellow;
+}
+.orange{
+  background-color: orange;
+}
+.red{
+  background-color: red;
+}
+
+.purple{
+  background-color: purple
+}
